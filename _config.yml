@@ -1,0 +1,28 @@
+name: Beer Me
+favicon: null
+layout_spectrum: 0.8117416161112487
+typography_spectrum: 0.1387593587860465
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5716387762222439
+  lightness: 0.3378594086971134
+  saturation: 0.5983070021029562
+  rhythmicContrast: 0.7774655639659613
+purpose: []
